@@ -1,26 +1,22 @@
-h1{
+.page {
     text-align: center;
     color: white;
-    font-family: "Libre_Baskerville", cursive ;
-    font-size: 42px;
-    
+    width: 50%;
+    margin-left: 25%;
+    font-family: "Libre Baskerville", serif;
+    margin-top: 100px;
 }
-
-p{
-    text-align: center;
-    color: white;
-}
-
 html{
     background-color: black;
 }
 
-img{
-    
-    border-width: 5px;
-    border: solid,white;
-    margin-top: 40px;
-    margin-left: 454px;
-    height: 396px;
+img{   
+    border: 5px solid,white;
+    width: 100%;    
+}
 
+h1{
+    font-size: 3em;
+    text-transform: uppercase;
+    
 }

@@ -12,3 +12,7 @@ h1 , h2 {
 li.done{
     color: seagreen; // chaining
 }
+
+ul p.done{
+    font-size: 0.5rem; // combining selector rules
+}

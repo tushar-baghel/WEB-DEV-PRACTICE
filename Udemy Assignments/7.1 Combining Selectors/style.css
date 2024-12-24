@@ -1,11 +1,14 @@
 /* Write your code here: */
 h1 , h2 {
-    color: blueviolet;
+    color: blueviolet; //group 
 }
 
 .box > .done {
-    color: firebrick;
+    color: firebrick; // child
 }
 .box li{
-    color: blue;
+    color: blue; //descendant
+}
+li.done{
+    color: seagreen; // chaining
 }

@@ -25,5 +25,14 @@ span{
 @media (max-width: 480px){
 
 }
+.card{
+  width: 45%;
+}
 
+.left{
+  float: left;
+}
+.right{
+  float: right;
+}
 
